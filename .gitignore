@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vspscc
+*.suo
+*.vssscc
+*.userosscache
+*.sln.docstates
+
+# IDE folders
+.vscode/
+.vs/
+
+# Runtime files (local data persistence)
+tasks.json
+
+# Logs
+*.log
