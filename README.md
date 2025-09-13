@@ -17,8 +17,11 @@ Tasks are stored in a local **JSON file** with support for create, read, update,
 
 ## 📂 Project Structure
 taskList-csharp/
+
 ├─ Program.cs # main application logic
+
 ├─ taskList-csharp.csproj
+
 └─ tasks.json # data persistence (created at runtime)
 
 
